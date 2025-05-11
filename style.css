@@ -1,0 +1,46 @@
+.main {
+    width: 90%;
+    margin-left: 5%;
+}
+
+.hero {
+    width: 70%;
+    margin-left: 10%;
+}
+
+.mycard {
+    display: flex;
+    justify-content: space-around;
+}
+
+.card-img-top {
+    height: 70px;
+    width: 70px;
+    align-self: center;
+    border-radius: 50%;
+}
+
+.card-custom {
+    background-color: #e6ffe6;
+  }
+
+/* OFFcanvas */
+.voucher-btn {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: 1.1rem;
+    padding: 0.6rem 1.2rem;
+  }
+
+  .voucher-btn:hover {
+    background-color: darkred;
+  }
+
+  .offcanvas-title {
+    font-weight: 900; /* Extra bold */
+  }
+
+  .offcanvas-body p {
+    font-weight: bold;
+  }
